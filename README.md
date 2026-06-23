@@ -271,23 +271,23 @@ Machine Learning powered loan approval prediction system that evaluates applican
 
 <td width="50%" valign="top">
 
-### 🎓 Student Management System
+### 🌍 CivicSense-AI
 
-> *"Simplifying student administration and attendance management."*
+> *"Empowering citizens through AI-driven civic intelligence."*
 
-Flask-based Student Management System featuring authentication, student CRUD operations, attendance tracking and analytics.
-
-<br>
-
-📚 `Student Records` • 📊 `Attendance Tracking` • 🔐 `Authentication`
+AI-powered civic engagement platform designed to help citizens report, track and analyze public issues. Features issue categorization, community reporting, AI-powered insights, visualization dashboards and transparency-focused workflows.
 
 <br>
 
-**Stack:** `Python` • `Flask` • `SQLite` • `SQLAlchemy` • `HTML/CSS`
+🏙️ `Smart Governance` • 🤖 `AI Analytics` • 📢 `Citizen Engagement`
 
 <br>
 
-<a href="https://github.com/Mohith1-stack/Student-Management-system">
+**Stack:** `Python` • `Flask` • `Machine Learning` • `HTML/CSS` • `JavaScript`
+
+<br>
+
+<a href="https://github.com/Mohith1-stack/CivicSense-AI">
 <img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-181717?style=for-the-badge&logo=github">
 </a>
 
