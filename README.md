@@ -90,23 +90,116 @@ class MohithDande:
 
 ---
 
-## Featured Projects
+## 🔭 Projects
 
-### Laser Home Security System
+<table>
 
-Smart security system using ESP32, PIR Sensor, LDR, Firebase and Web Dashboard.
+<tr>
 
-### Student Management System
+<td width="50%" valign="top">
 
-Flask + SQLite application with Attendance, CRUD Operations and Dashboard Analytics.
+### 🤖 AI Student Placement Predictor
 
-### Netflix Recommendation System
+> *"Predict placement success with Explainable AI."*
 
-Movie recommendation engine using TF-IDF and Cosine Similarity.
+End-to-end Machine Learning platform that evaluates academics, communication skills, internships, projects, and cognitive ability to estimate placement probability. Features Explainable AI dashboards, personalized recommendations, feature importance analysis, and comparative evaluation across multiple ML models.
 
-### AI Student Placement Predictor
+<br>
 
-Machine Learning model that predicts student placement probability.
+🏆 `Random Forest` • 📊 `XAI Dashboard` • 🎯 `10,000+ Records`
+
+<br>
+
+**Stack:** `Python` • `Flask` • `Scikit-Learn` • `Chart.js` • `Machine Learning`
+
+<br>
+
+<a href="https://github.com/Mohith1-stack/AI-Student-Placement-Predictor">
+<img src="https://img.shields.io/badge/🔗%20View%20Repo-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎬 Netflix Recommendation System
+
+> *"Discover your next favorite movie instantly."*
+
+AI-powered recommendation engine using TF-IDF Vectorization and Cosine Similarity to suggest movies and TV shows based on genres, cast, directors, and plot descriptions. Integrated with TMDB API for real-time posters and enhanced content discovery.
+
+<br>
+
+🎥 `Content Based Filtering` • ⚡ `TMDB API` • 🧠 `NLP Powered`
+
+<br>
+
+**Stack:** `Python` • `Flask` • `TF-IDF` • `Scikit-Learn` • `JavaScript`
+
+<br>
+
+<a href="https://github.com/Mohith1-stack/Netflix-Recommendation-System">
+<img src="https://img.shields.io/badge/🔗%20View%20Repo-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🛡️ Guardian Path
+
+> *"Navigation that prioritizes safety over speed."*
+
+AI-powered safety-first navigation platform featuring an intelligent Night Agent that analyzes risk zones, crime hotspots, and environmental hazards to provide secure routing recommendations. Designed as a digital safety companion for late-night travelers.
+
+<br>
+
+🌙 `Night Agent` • 🚨 `Risk Detection` • 📍 `Smart Routing`
+
+<br>
+
+**Stack:** `Kotlin` • `Google Maps API` • `OSRM` • `Android` • `Material Design`
+
+<br>
+
+<a href="https://github.com/Mohith1-stack/Code-Chaos">
+<img src="https://img.shields.io/badge/🔗%20View%20Repo-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎓 TechBuddies Student Management
+
+> *"Managing students, attendance and analytics seamlessly."*
+
+Full-stack Student Management System featuring authentication, attendance tracking, dashboard analytics, student CRUD operations, search functionality, CSV exports, and modern dark/light theme support.
+
+<br>
+
+📚 `Attendance System` • 📊 `Analytics Dashboard` • 🔐 `Authentication`
+
+<br>
+
+**Stack:** `Python` • `Flask` • `SQLite` • `SQLAlchemy` • `HTML/CSS`
+
+<br>
+
+<a href="https://github.com/Mohith1-stack/TechBuddies">
+<img src="https://img.shields.io/badge/🔗%20View%20Repo-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
 
 ---
 
