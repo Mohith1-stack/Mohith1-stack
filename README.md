@@ -245,6 +245,59 @@ Full-stack Student Management System featuring authentication, attendance tracki
 
 </table>
 
+<tr>
+
+<td width="50%" valign="top">
+
+### 💰 AI Loan Approval Prediction
+
+> *"Smarter lending decisions through Machine Learning."*
+
+Machine Learning application that predicts loan approval probability based on applicant profile, credit history, income, employment status, loan amount, and education level. Includes preprocessing pipelines, feature engineering, model evaluation, and interactive prediction interface.
+
+<br>
+
+🏦 `Risk Analysis` • 📊 `Probability Scoring` • 🤖 `ML Pipeline`
+
+<br>
+
+**Stack:** `Python` • `Scikit-Learn` • `Pandas` • `Streamlit` • `Machine Learning`
+
+<br>
+
+<a href="https://github.com/Mohith1-stack/AI-Loan-Approval-Prediction">
+<img src="https://img.shields.io/badge/🔗%20View%20Repo-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎓 Student Management System
+
+> *"Modern student administration made simple."*
+
+Flask-powered web application designed to manage student records, attendance, course enrollment, and academic information efficiently. Features CRUD operations, authentication, search functionality, responsive UI, and centralized student data management.
+
+<br>
+
+📚 `Student Records` • 🔍 `Search System` • 🔐 `Authentication`
+
+<br>
+
+**Stack:** `Python` • `Flask` • `SQLite` • `HTML` • `CSS`
+
+<br>
+
+<a href="https://github.com/Mohith1-stack/Student-Management-system">
+<img src="https://img.shields.io/badge/🔗%20View%20Repo-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+</tr>
+
+
 
 ---
 
