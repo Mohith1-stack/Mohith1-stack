@@ -245,28 +245,26 @@ Full-stack Student Management System featuring authentication, attendance tracki
 
 </table>
 
-<tr>
-
 <td width="50%" valign="top">
 
 ### 💰 AI Loan Approval Prediction
 
-> *"Smarter lending decisions through Machine Learning."*
+> *"Helping financial institutions make smarter decisions."*
 
-Machine Learning application that predicts loan approval probability based on applicant profile, credit history, income, employment status, loan amount, and education level. Includes preprocessing pipelines, feature engineering, model evaluation, and interactive prediction interface.
-
-<br>
-
-🏦 `Risk Analysis` • 📊 `Probability Scoring` • 🤖 `ML Pipeline`
+Machine Learning powered loan approval prediction system that evaluates applicant income, credit history, employment status, education, and loan details to estimate approval probability. Includes preprocessing pipelines, model comparison, feature engineering, and interactive prediction dashboards.
 
 <br>
+
+🏦 `Loan Risk Analysis` • 📈 `Probability Scoring` • 🤖 `ML Pipeline`
+
+<br><br>
 
 **Stack:** `Python` • `Scikit-Learn` • `Pandas` • `Streamlit` • `Machine Learning`
 
-<br>
+<br><br>
 
 <a href="https://github.com/Mohith1-stack/AI-Loan-Approval-Prediction">
-<img src="https://img.shields.io/badge/🔗%20View%20Repo-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -275,27 +273,26 @@ Machine Learning application that predicts loan approval probability based on ap
 
 ### 🎓 Student Management System
 
-> *"Modern student administration made simple."*
+> *"Simplifying student administration and attendance management."*
 
-Flask-powered web application designed to manage student records, attendance, course enrollment, and academic information efficiently. Features CRUD operations, authentication, search functionality, responsive UI, and centralized student data management.
-
-<br>
-
-📚 `Student Records` • 🔍 `Search System` • 🔐 `Authentication`
+Flask-based Student Management System featuring authentication, student CRUD operations, attendance tracking, dashboard analytics, search functionality, CSV export support, and responsive dark/light mode interfaces.
 
 <br>
 
-**Stack:** `Python` • `Flask` • `SQLite` • `HTML` • `CSS`
+📚 `Student Records` • 📊 `Attendance Tracking` • 🔐 `Authentication`
 
-<br>
+<br><br>
+
+**Stack:** `Python` • `Flask` • `SQLite` • `SQLAlchemy` • `HTML/CSS`
+
+<br><br>
 
 <a href="https://github.com/Mohith1-stack/Student-Management-system">
-<img src="https://img.shields.io/badge/🔗%20View%20Repo-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 
-</tr>
 
 
 
