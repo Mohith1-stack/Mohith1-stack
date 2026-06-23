@@ -293,6 +293,7 @@ Flask-based Student Management System featuring authentication, student CRUD ope
 
 </td>
 
+</table>
 
 
 
