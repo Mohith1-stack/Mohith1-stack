@@ -147,7 +147,7 @@ class MohithDande:
 
 > *"Predict placement success with Explainable AI."*
 
-End-to-end Machine Learning platform that evaluates academics, communication skills, internships, projects, and cognitive ability to estimate placement probability. Features Explainable AI dashboards, personalized recommendations, feature importance analysis, and comparative evaluation across multiple ML models.
+End-to-end Machine Learning platform that evaluates academics, communication skills, internships, projects, and cognitive ability to estimate placement probability.
 
 <br>
 
@@ -160,7 +160,7 @@ End-to-end Machine Learning platform that evaluates academics, communication ski
 <br>
 
 <a href="https://github.com/Mohith1-stack/AI-Student-Placement-Predictor">
-<img src="https://img.shields.io/badge/🔗%20View%20Repo-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-181717?style=for-the-badge&logo=github">
 </a>
 
 </td>
@@ -171,7 +171,7 @@ End-to-end Machine Learning platform that evaluates academics, communication ski
 
 > *"Discover your next favorite movie instantly."*
 
-AI-powered recommendation engine using TF-IDF Vectorization and Cosine Similarity to suggest movies and TV shows based on genres, cast, directors, and plot descriptions. Integrated with TMDB API for real-time posters and enhanced content discovery.
+AI-powered recommendation engine using TF-IDF Vectorization and Cosine Similarity with TMDB API integration.
 
 <br>
 
@@ -184,7 +184,7 @@ AI-powered recommendation engine using TF-IDF Vectorization and Cosine Similarit
 <br>
 
 <a href="https://github.com/Mohith1-stack/Netflix-Recommendation-System">
-<img src="https://img.shields.io/badge/🔗%20View%20Repo-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-181717?style=for-the-badge&logo=github">
 </a>
 
 </td>
@@ -199,7 +199,7 @@ AI-powered recommendation engine using TF-IDF Vectorization and Cosine Similarit
 
 > *"Navigation that prioritizes safety over speed."*
 
-AI-powered safety-first navigation platform featuring an intelligent Night Agent that analyzes risk zones, crime hotspots, and environmental hazards to provide secure routing recommendations. Designed as a digital safety companion for late-night travelers.
+AI-powered safety-first navigation platform featuring an intelligent Night Agent that analyzes risk zones and provides safer routes.
 
 <br>
 
@@ -212,7 +212,7 @@ AI-powered safety-first navigation platform featuring an intelligent Night Agent
 <br>
 
 <a href="https://github.com/Mohith1-stack/Code-Chaos">
-<img src="https://img.shields.io/badge/🔗%20View%20Repo-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-181717?style=for-the-badge&logo=github">
 </a>
 
 </td>
@@ -223,7 +223,7 @@ AI-powered safety-first navigation platform featuring an intelligent Night Agent
 
 > *"Managing students, attendance and analytics seamlessly."*
 
-Full-stack Student Management System featuring authentication, attendance tracking, dashboard analytics, student CRUD operations, search functionality, CSV exports, and modern dark/light theme support.
+Full-stack Student Management System featuring authentication, attendance tracking, dashboard analytics, search functionality and exports.
 
 <br>
 
@@ -236,14 +236,14 @@ Full-stack Student Management System featuring authentication, attendance tracki
 <br>
 
 <a href="https://github.com/Mohith1-stack/TechBuddies">
-<img src="https://img.shields.io/badge/🔗%20View%20Repo-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-181717?style=for-the-badge&logo=github">
 </a>
 
 </td>
 
 </tr>
 
-</table>
+<tr>
 
 <td width="50%" valign="top">
 
@@ -251,20 +251,20 @@ Full-stack Student Management System featuring authentication, attendance tracki
 
 > *"Helping financial institutions make smarter decisions."*
 
-Machine Learning powered loan approval prediction system that evaluates applicant income, credit history, employment status, education, and loan details to estimate approval probability. Includes preprocessing pipelines, model comparison, feature engineering, and interactive prediction dashboards.
+Machine Learning powered loan approval prediction system that evaluates applicant profiles and estimates approval probability.
 
 <br>
 
 🏦 `Loan Risk Analysis` • 📈 `Probability Scoring` • 🤖 `ML Pipeline`
 
-<br><br>
+<br>
 
 **Stack:** `Python` • `Scikit-Learn` • `Pandas` • `Streamlit` • `Machine Learning`
 
-<br><br>
+<br>
 
 <a href="https://github.com/Mohith1-stack/AI-Loan-Approval-Prediction">
-<img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-181717?style=for-the-badge&logo=github">
 </a>
 
 </td>
@@ -275,26 +275,27 @@ Machine Learning powered loan approval prediction system that evaluates applican
 
 > *"Simplifying student administration and attendance management."*
 
-Flask-based Student Management System featuring authentication, student CRUD operations, attendance tracking, dashboard analytics, search functionality, CSV export support, and responsive dark/light mode interfaces.
+Flask-based Student Management System featuring authentication, student CRUD operations, attendance tracking and analytics.
 
 <br>
 
 📚 `Student Records` • 📊 `Attendance Tracking` • 🔐 `Authentication`
 
-<br><br>
+<br>
 
 **Stack:** `Python` • `Flask` • `SQLite` • `SQLAlchemy` • `HTML/CSS`
 
-<br><br>
+<br>
 
 <a href="https://github.com/Mohith1-stack/Student-Management-system">
-<img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-181717?style=for-the-badge&logo=github">
 </a>
 
 </td>
 
-</table>
+</tr>
 
+</table>
 
 
 ---
