@@ -219,10 +219,40 @@ Full-stack Student Management System featuring authentication, attendance tracki
 
 ## Connect With Me
 
-- LinkedIn: Add your LinkedIn URL
-- Email: Add your Email
-
 ---
+
+# 🔗 Let's Build Something Great
+
+<div align="center">
+
+<a href="https://mohith1-stack.github.io/">
+<img src="https://img.shields.io/badge/◇%20PORTFOLIO-0A0F1C?style=for-the-badge&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/mohith-dande-01b58a371/">
+<img src="https://img.shields.io/badge/◇%20LINKEDIN-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/Mohith1-stack">
+<img src="https://img.shields.io/badge/◇%20GITHUB-2F4F75?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="mailto:mohithdande3@gmail.com">
+<img src="https://img.shields.io/badge/◇%20EMAIL-0A0F1C?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<br><br>
+
+### *Open to AI/ML engineering roles, internships, hackathons, and exciting collaborations.*
+
+### *Let's build something impactful together.*
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Mohith1-stack&label=PROFILE+VIEWS&color=4c6c91&style=for-the-badge"/>
+
+</div>
+
 
 <div align="center">
 
