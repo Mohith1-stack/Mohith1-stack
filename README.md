@@ -25,8 +25,9 @@
 │                                                        │
 │ $ cat skills.sh                                        │
 │ > Languages: Python, JavaScript, HTML, CSS             │
-│ > Backend: Flask, Node.js, Express, REST APIs, SQL      │
-│ > AI/ML: Scikit-Learn, Pandas, NumPy, NLP, Cosine Sim  │
+│ > Backend: Flask, Node.js, Express, REST APIs, SQL     │
+│ > AI/ML: PyTorch, Scikit-Learn, Pandas, NumPy, NLP     │
+│ > Security: eBPF, PMU Telemetry, Side-Channel Defense │
 │                                                        │
 │ dande@mohith:~$ _                                      │
 └────────────────────────────────────────────────────────┘
@@ -41,7 +42,8 @@ Cyber Security student with a deep passion for Artificial Intelligence, Machine 
 ### Profile Highlights
 - 🎓 **Education:** B.Tech CSE (Cyber Security) @ Amrita Vishwa Vidyapeetham, Kerala
 - 🤖 **Interests:** Machine Learning Pipelines, Explainable AI, Automation & Agentic AI
-- 🔐 **Security:** Secure Web Applications, Cryptography, Risk Analysis
+- 🔐 **Security:** Secure Web Applications, Cryptography, Risk Analysis, Microarchitectural Forensics
+- 🛡️ **Cyber-Physical Defense:** eBPF telemetry, CPU side-channel detection, hardware-level containment
 - 📍 **Location:** India
 - 🎯 **Goal:** AI & Security Engineer
 
@@ -54,11 +56,12 @@ class MohithDande:
     education = "Amrita Vishwa Vidyapeetham"
     location = "India"
     skills = [
-        "Python", "Machine Learning", "Flask", "SQLite", 
-        "Firebase", "React", "Node.js", "MongoDB"
+        "Python", "Machine Learning", "PyTorch", "eBPF",
+        "Flask", "SQLite", "Firebase", "React", "Node.js", "MongoDB"
     ]
     interests = [
-        "Explainable AI", "Secure APIs", "Risk Detection", "Automation"
+        "Explainable AI", "Microarchitectural Security",
+        "Side-Channel Detection", "Automation"
     ]
     def get_status(self):
         return "Actively building cyber-physical projects."
@@ -79,9 +82,10 @@ class MohithDande:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 `Predictive Pipelines` • `Feature Engineering`
-`Explainable AI` • `Model Evaluation`
+`Explainable AI` • `Model Evaluation` • `Deep Learning`
 
 </td>
 <td width="33%" align="center" valign="top">
@@ -107,9 +111,10 @@ class MohithDande:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![eBPF](https://img.shields.io/badge/eBPF-512BD4?style=for-the-badge&logo=linux&logoColor=white)
 
 `Version Control` • `Responsive Layouts`
-`MERN Frameworks` • `Web Development`
+`MERN Frameworks` • `Web Development` • `Linux Tooling`
 
 </td>
 </tr>
@@ -119,9 +124,34 @@ class MohithDande:
 
 ## 🔭 Featured Projects
 
+AI/ML, full-stack engineering, developer tooling, and cybersecurity systems built around real-world problems.
+
 <table>
   <tr>
     <td width="50%" valign="top">
+
+### 🛡️ AEGIS — Microarchitectural Forensics
+> *"Detect side-channel attacks. Contain them at the hardware level."*
+
+Real-time cybersecurity framework designed to detect CPU microarchitectural side-channel attacks using kernel PMU telemetry, eBPF, and tri-modal deep learning, with automated hardware-level containment.
+
+<br>
+
+🛡️ `99.33% Detection Accuracy` • ⚡ `1.29ms Inference Latency` • 🔐 `Hardware-Level Containment`
+
+<br>
+
+**Stack:** Python • PyTorch • eBPF • CNN • Bi-LSTM • Intel RDT / AMD QoS
+
+<br>
+
+<a href="https://github.com/Mohith1-stack/Aegis-LLC">
+  <img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-181717?style=for-the-badge&logo=github" alt="AEGIS Repository">
+</a>
+
+   </td>
+
+   <td width="50%" valign="top">
 
 ### 🚀 SkillBridge AI (Currently Building)
 > *"An AI-powered freelance marketplace with secure payments and intelligent hiring."*
@@ -335,6 +365,14 @@ AI-powered civic engagement platform designed to help citizens report, track and
 
 ---
 
+## 🛡️ AEGIS — Real-Time Cybersecurity Defense
+
+AEGIS combines **kernel PMU telemetry + eBPF + tri-modal deep learning** to detect CPU microarchitectural side-channel attacks such as **Flush+Reload, Prime+Probe, and Spectre-class transient attacks** and trigger hardware-aware containment using **Intel RDT / AMD QoS**.
+
+**Pipeline:** Spatial Cache-Way Occupancy (CNN) → Temporal Access Sequences (Bi-LSTM) → Process Context → Cross-Modal Fusion → Detection → Hardware Containment
+
+---
+
 ## 📊 GitHub Insights
 
 <div align="center">
@@ -361,4 +399,3 @@ AI-powered civic engagement platform designed to help citizens report, track and
 **Email:** mohithdande3@gmail.com | **Phone Contact:** 9985124955
 
 </div>
-
