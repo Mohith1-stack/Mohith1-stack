@@ -167,12 +167,16 @@ A full-stack freelance marketplace inspired by Upwork and Fiverr featuring AI-as
 **Stack:** React • Flask • PostgreSQL • SQLAlchemy • JWT • Razorpay • Socket.IO
 
 <br>
+
 <a href="https://github.com/Mohith1-stack/SkillBridge-AI">
   <img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-181717?style=for-the-badge&logo=github" alt="SkillBridge AI Repo">
 </a>
 
    </td>
-   <td width="50%" valign="top">
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🎵 Spotify Clone
 > *"A modern music streaming interface inspired by Spotify."*
@@ -188,14 +192,14 @@ Spotify-inspired audio streaming web application with active music playing libra
 **Stack:** HTML • CSS • JavaScript • MERN Structure • Cloudinary
 
 <br>
+
 <a href="https://github.com/Mohith1-stack/spotify-clone">
   <img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-181717?style=for-the-badge&logo=github" alt="Spotify Clone Repo">
 </a>
 
    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+
+   <td width="50%" valign="top">
 
 ### 🤖 AI Student Placement Predictor
 > *"Predict placement success with Explainable AI."*
@@ -211,12 +215,16 @@ End-to-end Machine Learning platform that evaluates academics, communication ski
 **Stack:** Python • Flask • Scikit-Learn • Chart.js • Machine Learning
 
 <br>
+
 <a href="https://github.com/Mohith1-stack/AI-Student-Placement-Predictor">
   <img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-181717?style=for-the-badge&logo=github" alt="Placement Predictor Repo">
 </a>
 
    </td>
-   <td width="50%" valign="top">
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🎬 Netflix Recommendation System
 > *"Discover your next favorite movie instantly."*
@@ -232,14 +240,14 @@ AI-powered recommendation engine using TF-IDF Vectorization and Cosine Similarit
 **Stack:** Python • Flask • TF-IDF • Scikit-Learn • JavaScript
 
 <br>
+
 <a href="https://github.com/Mohith1-stack/Netflix-Recommendation-System">
   <img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-181717?style=for-the-badge&logo=github" alt="Netflix Recommendation System Repo">
 </a>
 
    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+
+   <td width="50%" valign="top">
 
 ### 🛡️ Guardian Path
 > *"Navigation that prioritizes safety over speed."*
@@ -255,12 +263,16 @@ AI-powered safety-first navigation platform featuring an intelligent Night Agent
 **Stack:** Kotlin • Google Maps API • OSRM • Android • Material Design
 
 <br>
+
 <a href="https://github.com/Mohith1-stack/Code-Chaos">
   <img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-181717?style=for-the-badge&logo=github" alt="Guardian Path Repo">
 </a>
 
    </td>
-   <td width="50%" valign="top">
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🎓 TechBuddies Student Management
 > *"Managing students, attendance and analytics seamlessly."*
@@ -276,14 +288,14 @@ Full-stack Student Management System featuring authentication, attendance tracki
 **Stack:** Python • Flask • SQLite • SQLAlchemy • HTML/CSS
 
 <br>
+
 <a href="https://github.com/Mohith1-stack/TechBuddies">
   <img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-181717?style=for-the-badge&logo=github" alt="TechBuddies Repo">
 </a>
 
    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+
+   <td width="50%" valign="top">
 
 ### 💰 AI Loan Approval Prediction
 > *"Helping financial institutions make smarter decisions."*
@@ -299,12 +311,16 @@ Machine Learning powered loan approval prediction system that evaluates applican
 **Stack:** Python • Scikit-Learn • Pandas • Streamlit • Machine Learning
 
 <br>
+
 <a href="https://github.com/Mohith1-stack/AI-Loan-Approval-Prediction">
   <img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-181717?style=for-the-badge&logo=github" alt="Loan Approval Prediction Repo">
 </a>
 
    </td>
-   <td width="50%" valign="top">
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🌍 CivicSense-AI
 > *"Empowering citizens through AI-driven civic intelligence."*
@@ -320,10 +336,14 @@ AI-powered civic engagement platform designed to help citizens report, track and
 **Stack:** Python • Flask • Machine Learning • HTML/CSS • JavaScript
 
 <br>
+
 <a href="https://github.com/Mohith1-stack/CivicSense-AI">
   <img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-181717?style=for-the-badge&logo=github" alt="CivicSense AI Repo">
 </a>
 
+   </td>
+
+   <td width="50%" valign="top">
    </td>
   </tr>
 </table>
